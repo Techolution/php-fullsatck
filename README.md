@@ -161,9 +161,7 @@ Feel free to build it in any way you want using any framework, architecture and 
 
 This is a relatively simple app, however we are looking for more than just the task to be completed. We take the craftmanship of the code seriously, and want to see evidence that you do as well.  We are looking for software that is well structured, concise and testable.
 
-
-## Full-Stack Specifics
-PHP should be the backedn, feel free to add angular/React/Vuew/Drupal/Wordpress if you feel its fits. Our minimal expectation is that there are some server side components in your solution.  The front end can be rendered on the client side or server side, its entirely up to you, submissions that run in a docker container will be heavily favored.
+PHP should be the backend, feel free to add Angular/React/Vue/Drupal/Wordpress if you feel its fits. Our minimal expectation is that there are some server side components in your solution.  The front end can be rendered on the client side or server side, its entirely up to you, submissions that run in a docker container will be heavily favored.
 
 
 
